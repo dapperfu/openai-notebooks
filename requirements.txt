@@ -2,3 +2,6 @@ jupyter
 notebook
 openai
 requests
+
+numpy
+matplotlib
