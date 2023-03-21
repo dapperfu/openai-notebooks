@@ -29,6 +29,8 @@ Each notebook provides a step-by-step guide on how to use ChatGPT for the specif
 This project is licensed under the MIT License. See the LICENSE file for more information.
 Getting Started
 
+# Getting Started
+
 To get started with the openai-notebooks repository, clone the repository using the following command:
 
 ```bash
@@ -40,7 +42,7 @@ Once the repository is cloned, navigate to the project directory and follow the 
 
 # ChatGPT-Assisted Repository Creation
 
-This openai-notebooks repository has been primarily generated using OpenAI's ChatGPT, showcasing the potential of language models to assist in the creation of project documentation and content. ChatGPT has been utilized throughout the development process, from generating the initial project ideas to writing the README file and even helping create the example Jupyter Notebooks. By leveraging ChatGPT, this project demonstrates how AI can be used to support and streamline various tasks in software development.
+This `openai-notebooks` repository has been primarily generated using OpenAI's ChatGPT, showcasing the potential of language models to assist in the creation of project documentation and content. ChatGPT has been utilized throughout the development process, from generating the initial project ideas to writing the README file and even helping create the example Jupyter Notebooks. By leveraging ChatGPT, this project demonstrates how AI can be used to support and streamline various tasks in software development.
 
 As an assistive technology, ChatGPT has proven valuable in creating Jupyter Notebooks that are both informative and engaging. The example notebooks in this repository have been generated with the help of ChatGPT, which has provided the code blocks, explanations, and descriptions for each notebook. By integrating ChatGPT within the notebook creation process, developers can generate content more efficiently, focus on their core ideas, and spend less time on the repetitive aspects of the process.
 
